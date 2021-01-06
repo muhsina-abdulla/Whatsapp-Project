@@ -38,39 +38,42 @@ namespace Whatsapp_Project
         //Change Group DP
         public bool ChangeProfilePic()
         {
-            throw new NotImplementedException();
+            //implement
+            return true;
         }
 
 
         //Change Group About Info
         public bool EditAbout()
         {
-            throw new NotImplementedException();
+            //implement
+            return true;
         }
 
         //Change Group Name
         public bool ChangeName()
         {
-            throw new NotImplementedException();
+            //implement
+            return true;
         }
 
 
         //View Group DP
         public void ViewProfilePicture()
         {
-            throw new NotImplementedException();
+            //implement
         }
 
         //View Group About Info
         public void ViewAbout()
         {
-            throw new NotImplementedException();
+            //implement
         }
 
         //View GroupName
         public void ViewName()
         {
-            throw new NotImplementedException();
+            //implement
         }
     }
 }

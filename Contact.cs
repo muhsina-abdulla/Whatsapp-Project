@@ -1,7 +1,7 @@
 using System;
 
 namespace Whatsapp_Project{
-    public class Contact : I_ViewProfile{
+    public class Contact : I_Profile{
          
         //Properties
         
@@ -19,15 +19,30 @@ namespace Whatsapp_Project{
         //View Contact About Info
          public void ViewAbout()
         {
-            throw new NotImplementedException();
+            //implement
+        }
+        //View Name
+        public void ViewName()
+        {
+            //implement
         }
 
         //View Contact Profile Picture
         public void ViewProfilePicture()
         {
-            throw new NotImplementedException();
+            //implement
+        }
+
+
+        //Block Contact
+        public void BlockContact(){
+
         }
         
+        //Report Contact
+        public void ReportContact(){
+
+        }
 
         
 

@@ -2,7 +2,7 @@ using System;
 
 namespace Whatsapp_Project
 {
-    public class User:Account
+    public class User
     {
         
         private String Name{ get ; set ;}

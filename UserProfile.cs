@@ -6,29 +6,43 @@ namespace Whatsapp_Project
     {
         private User user{get;set;}
 
+        //Change Name
         public bool ChangeName()
         {
-            throw new NotImplementedException();
+            //implement 
+            return true;
         }
-
+       
+        //Change User Profile Picture
         public bool ChangeProfilePic()
         {
-            throw new NotImplementedException();
+            //implement
+            return true;
         }
 
+        //Edit User About Info
         public bool EditAbout()
         {
-            throw new NotImplementedException();
+            //implement
+            return true;
         }
 
+        //View User Profile About Info
         public void ViewAbout()
         {
-            throw new NotImplementedException();
+            //implement
+        }
+        
+        //View Users Name
+        public void ViewName()
+        {
+            //implement
         }
 
+        //View user Profile Picture
         public void ViewProfilePicture()
         {
-            throw new NotImplementedException();
+            //implement
         }
     }
 }
