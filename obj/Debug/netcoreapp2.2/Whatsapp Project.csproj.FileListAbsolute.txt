@@ -1,0 +1,11 @@
+/home/muhsina/Experion/Assignments/Whatsapp Project/bin/Debug/netcoreapp2.2/Whatsapp Project.deps.json
+/home/muhsina/Experion/Assignments/Whatsapp Project/bin/Debug/netcoreapp2.2/Whatsapp Project.runtimeconfig.json
+/home/muhsina/Experion/Assignments/Whatsapp Project/bin/Debug/netcoreapp2.2/Whatsapp Project.runtimeconfig.dev.json
+/home/muhsina/Experion/Assignments/Whatsapp Project/bin/Debug/netcoreapp2.2/Whatsapp Project.dll
+/home/muhsina/Experion/Assignments/Whatsapp Project/bin/Debug/netcoreapp2.2/Whatsapp Project.pdb
+/home/muhsina/Experion/Assignments/Whatsapp Project/obj/Debug/netcoreapp2.2/Whatsapp Project.csprojAssemblyReference.cache
+/home/muhsina/Experion/Assignments/Whatsapp Project/obj/Debug/netcoreapp2.2/Whatsapp Project.csproj.CoreCompileInputs.cache
+/home/muhsina/Experion/Assignments/Whatsapp Project/obj/Debug/netcoreapp2.2/Whatsapp Project.AssemblyInfoInputs.cache
+/home/muhsina/Experion/Assignments/Whatsapp Project/obj/Debug/netcoreapp2.2/Whatsapp Project.AssemblyInfo.cs
+/home/muhsina/Experion/Assignments/Whatsapp Project/obj/Debug/netcoreapp2.2/Whatsapp Project.dll
+/home/muhsina/Experion/Assignments/Whatsapp Project/obj/Debug/netcoreapp2.2/Whatsapp Project.pdb
